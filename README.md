@@ -13,5 +13,6 @@ I can work as a junior developer for a minimum wage. I want to continue my caree
 I imported the json file and the database. I performed the insertion, deletion and editing operations in the database. I created a sample query field for the filtering field, you can see it on the index.php page. I can put the data from the example in the filtering field in a loop and collect the price parts and reflect it on the front side.
 
 
+
 Best Regards,
 Mert Dikmen
